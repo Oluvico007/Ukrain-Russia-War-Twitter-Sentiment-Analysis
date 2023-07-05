@@ -1,0 +1,13 @@
+The requirements needed for the successfull running of this project:
+
+ - python (version 3.11)
+ 
+ - pandas 
+
+ - seaborn 
+
+ - matplotlib
+
+ - nltk
+
+ - wordcloud
